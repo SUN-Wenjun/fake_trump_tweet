@@ -13,6 +13,6 @@ Finally, I compared the classifiers and used the better-performed one to evaluat
 
 * For the details of this project, check [this medium post](https://medium.com/@wenjun.sarah.sun/trumpy-tweets-trump-tweet-classifiers-and-generators-9ccfddc7764e?source=friends_link&sk=7012c25dbd51da7f759efad9c3dd36f4). 
 
-* For more details of this project, check [this formal report](https://github.com/SUN-Wenjun/Trump_Tweet_Generator/blob/master/written-up-report.docx).
+* For more details of this project, check [this formal report](https://github.com/SUN-Wenjun/Trump_Tweet_Generator/blob/master/written_up_report.pdf).
 
 
