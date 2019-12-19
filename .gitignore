@@ -121,3 +121,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/RawTwitterFeeds/AdamSavageTweets.csv
+data/RawTwitterFeeds/NeildeGrasseTysonTweets.csv
+data/RawTwitterFeeds/RichardDawkins.csv
+data/RawTwitterFeeds/ScottKelly.csv
